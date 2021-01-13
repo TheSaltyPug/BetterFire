@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Flame arrows, the way Mojang never intended",
+          "icon": {
+               "item": "minecraft:arrow"
+          },
+          "show_toast": false,
+          "title": "Better Fire Arrows"
+     },
+     "parent": "global:tsp"
+}
